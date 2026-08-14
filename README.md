@@ -17,7 +17,6 @@ I'm interested in the intersection of **software engineering, artificial intelli
 
 ### Languages
 
-![C](https://img.shields.io/badge/C-333333?style=flat-square\&logo=c\&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-333333?style=flat-square\&logo=c%2B%2B\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-333333?style=flat-square\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat-square\&logo=javascript\&logoColor=white)
