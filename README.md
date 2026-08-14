@@ -13,7 +13,7 @@ I'm interested in the intersection of **software engineering, artificial intelli
 
 ---
 
-## 🛠️ Tech I Work With
+## Tech I Work With
 
 ### Languages
 
