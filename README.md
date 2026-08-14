@@ -1,35 +1,117 @@
-<h1 align="center">Hi 👋, I'm Shweta</h1>
-<h3 align="center">Ex Research Intern @ IIT Kharagpur</h3>
+# Hi, I'm Shweta 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shwetakul2005&label=Profile%20views&color=0e75b6&style=flat" alt="shwetakul2005" /> </p>
+I like building software, exploring AI, and turning ideas into products people can actually use.
 
-<p align="left"> <a href="https://twitter.com/@shwetak1054421" target="blank"><img src="https://img.shields.io/twitter/follow/@shwetak1054421?logo=twitter&style=for-the-badge" alt="@shwetak1054421" /></a> </p>
+I'm interested in the intersection of **software engineering, artificial intelligence, and product development** from designing full-stack applications to experimenting with machine learning and understanding how technology can solve real problems.
 
-- 🔭 I’m currently working on **Verify Hub — a full-stack document verification platform**
+### What I'm up to
 
-- 🌱 I’m currently learning **System design, full-stack development & AI engineering**
+* Building full-stack applications and exploring AI-powered solutions
+* Currently learning **AI engineering, system design & data-driven product development**
+* Interested in **software engineering, AI/ML, data science, and product**
+* Always trying to turn ideas into things I can actually build
 
-- 👯 I’m looking to collaborate on **AI, full-stack & open-source projects**
+---
 
-- 🤝 I’m looking for help with **System design, scalable architectures & AI integration**
+## 🛠️ Tech I Work With
 
-- 💬 Ask me about **MERN, REST APIs, authentication, AI & robotics**
+### Languages
 
-- 📫 How to reach me **shwetakul2020@gmail.com**
+![C](https://img.shields.io/badge/C-333333?style=flat-square\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-333333?style=flat-square\&logo=c%2B%2B\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-333333?style=flat-square\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat-square\&logo=javascript\&logoColor=white)
 
-- ⚡ Fun fact **Apart from programming, I love Indian mythology, philosophy & music.**
+### Full-Stack Development
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@shwetak1054421" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shwetak1054421" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/shweta-kulkarni-8b7523292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shweta-kulkarni-8b7523292" height="30" width="40" /></a>
+![React](https://img.shields.io/badge/React-333333?style=flat-square\&logo=react\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat-square\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-333333?style=flat-square\&logo=express\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=flat-square\&logo=mongodb\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-333333?style=flat-square\&logo=fastapi\&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-333333?style=flat-square\&logo=jsonwebtokens\&logoColor=white)
+
+### AI / Machine Learning
+
+![Python](https://img.shields.io/badge/Python-333333?style=flat-square\&logo=python\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-333333?style=flat-square\&logo=pytorch\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-333333?style=flat-square\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-333333?style=flat-square\&logo=pandas\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-333333?style=flat-square\&logo=python\&logoColor=white)
+
+### Tools & Other
+
+![Git](https://img.shields.io/badge/Git-333333?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat-square\&logo=github\&logoColor=white)
+![ROS 2](https://img.shields.io/badge/ROS%202-333333?style=flat-square\&logo=ros\&logoColor=white)
+
+---
+
+## Featured Projects
+
+### Online Document Verification Platform
+
+A full-stack platform designed to streamline document and identity verification workflows, with role-based access and automated verification capabilities.
+
+**Focus:** Full-stack development · Backend architecture · Authentication · AI-powered verification
+
+**Stack:** React · Node.js · Express.js · MongoDB · JWT · Python · AI/ML
+
+🔗 **[View Project](YOUR_DOCUMENT_VERIFICATION_REPO_LINK)**
+
+---
+
+### Personal Finance App
+
+A React-based personal finance application focused on helping users organize, track, and understand their financial activity through a product-oriented interface.
+
+**Focus:** Frontend development · Data visualization · Product thinking · User experience
+
+**Stack:** React · JavaScript · Data visualization
+
+🔗 **[View Project](YOUR_PERSONAL_FINANCE_REPO_LINK)**
+
+---
+
+### Neural Network from Scratch in C++
+
+An implementation-focused project exploring the fundamentals of neural networks by building the underlying concepts in C++ rather than relying entirely on high-level ML frameworks.
+
+**Focus:** Neural networks · Machine learning fundamentals · C++
+
+🔗 **[View Project](https://github.com/shwetakul2005/Neural_Network_CPP)**
+
+---
+
+## What I'm Interested In
+
+**Software Engineering**
+Building reliable, maintainable applications and understanding how systems fit together.
+
+**Artificial Intelligence**
+Exploring machine learning, deep learning, and the process of turning AI research into useful applications.
+
+**Data & Product**
+Understanding data, user needs, and product decisions together rather than treating them as separate problems.
+
+---
+
+## Beyond Code
+
+When I'm not building things, I enjoy exploring **Indian mythology and philosophy**, listening to music, and getting lost in ideas that have absolutely nothing to do with software.
+
+---
+
+## Let's Connect
+
+I'm always interested in meeting people who enjoy building things, discussing technology, or exploring new ideas.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/shweta-kulkarni-8b7523292)
+[![X](https://img.shields.io/badge/X-333333?style=flat-square\&logo=x\&logoColor=white)](https://x.com/ShwetaK1054421)
+[![Email](https://img.shields.io/badge/Email-333333?style=flat-square\&logo=gmail\&logoColor=white)](mailto:shwetakul2020@gmail.com)
+
+---
+
+<p align="center">
+  <i>Build. Learn. Experiment. Repeat.</i>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shwetakul2005&show_icons=true&locale=en&layout=compact" alt="shwetakul2005" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shwetakul2005&show_icons=true&locale=en" alt="shwetakul2005" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shwetakul2005&" alt="shwetakul2005" /></p>
