@@ -32,7 +32,6 @@ I'm interested in the intersection of **software engineering, artificial intelli
 
 ### AI / Machine Learning
 
-![Python](https://img.shields.io/badge/Python-333333?style=flat-square\&logo=python\&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-333333?style=flat-square\&logo=pytorch\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-333333?style=flat-square\&logo=numpy\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-333333?style=flat-square\&logo=pandas\&logoColor=white)
