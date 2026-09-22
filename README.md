@@ -55,7 +55,7 @@ A full-stack platform designed to streamline document and identity verification 
 
 **Stack:** React · Node.js · Express.js · MongoDB · JWT · Python · AI/ML
 
-🔗 **[View Project](YOUR_DOCUMENT_VERIFICATION_REPO_LINK)**
+🔗 **[View Project](https://github.com/shwetakul2005/VerifyHub)**
 
 ---
 
@@ -67,7 +67,7 @@ A React-based personal finance application focused on helping users organize, tr
 
 **Stack:** React · JavaScript · Data visualization
 
-🔗 **[View Project](YOUR_PERSONAL_FINANCE_REPO_LINK)**
+🔗 **[View Project](https://github.com/shwetakul2005/Pocket-Pal)**
 
 ---
 
