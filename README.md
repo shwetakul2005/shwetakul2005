@@ -47,7 +47,7 @@ I'm interested in the intersection of **software engineering, artificial intelli
 
 ## Featured Projects
 
-### Online Document Verification Platform
+### VerifyHub: Online Verification Platform
 
 A full-stack platform designed to streamline document and identity verification workflows, with role-based access and automated verification capabilities.
 
@@ -59,7 +59,7 @@ A full-stack platform designed to streamline document and identity verification 
 
 ---
 
-### Personal Finance App
+### PocketPal: Personal Finance Tracking App
 
 A React-based personal finance application focused on helping users organize, track, and understand their financial activity through a product-oriented interface.
 
